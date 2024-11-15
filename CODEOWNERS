@@ -1688,6 +1688,8 @@ build.json @home-assistant/supervisor
 /tests/components/wyoming/ @balloob @synesthesiam
 /homeassistant/components/xbox/ @hunterjm
 /tests/components/xbox/ @hunterjm
+/homeassistant/components/xcomfort_shc/ @HendrikThePendric
+/tests/components/xcomfort_shc/ @HendrikThePendric
 /homeassistant/components/xiaomi_aqara/ @danielhiversen @syssi
 /tests/components/xiaomi_aqara/ @danielhiversen @syssi
 /homeassistant/components/xiaomi_ble/ @Jc2k @Ernst79

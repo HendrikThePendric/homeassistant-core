@@ -1,0 +1,21 @@
+{
+  "domain": "xcomfort_shc",
+  "name": "xComfort Smart Home Controller",
+  "codeowners": [
+    "@HendrikThePendric"
+  ],
+  "integration_type": "hub",
+  "config_flow": true,
+  "dependencies": [],
+  "documentation": "https://www.home-assistant.io/integrations/xcomfort_shc",
+  "homekit": {},
+  "iot_class": "local_polling",
+  "requirements": [],
+  "ssdp": [],
+  "zeroconf": [],
+  "dhcp": [
+    {
+      "hostname": "SHC-*.local"
+    }
+  ]
+}
